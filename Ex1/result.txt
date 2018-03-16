@@ -1,0 +1,417 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "A3",
+               "short_name" : "A3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ðông Hòa",
+               "short_name" : "Ðông Hòa",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Th? xã Di An",
+               "short_name" : "Tx. Di An",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ðông Hoà",
+               "short_name" : "Ðông Hoà",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Di An",
+               "short_name" : "Di An",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bình Duong",
+               "short_name" : "Bình Duong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "A3, Ðông Hòa, Di An, Bình Duong, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.8821153,
+                  "lng" : 106.8047354
+               },
+               "southwest" : {
+                  "lat" : 10.8795774,
+                  "lng" : 106.8030887
+               }
+            },
+            "location" : {
+               "lat" : 10.8808464,
+               "lng" : 106.803912
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.8821953302915,
+                  "lng" : 106.8052610302915
+               },
+               "southwest" : {
+                  "lat" : 10.8794973697085,
+                  "lng" : 106.8025630697085
+               }
+            }
+         },
+         "place_id" : "ChIJiwhAMKXYdDERkCqc6j-Kav0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ðông Hòa",
+               "short_name" : "Ðông Hòa",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Di An",
+               "short_name" : "Di An",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Di An",
+               "short_name" : "Di An",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Binh Duong",
+               "short_name" : "Binh Duong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ðông Hòa, Di An, Binh Duong, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.9067126,
+                  "lng" : 106.8141138
+               },
+               "southwest" : {
+                  "lat" : 10.867214,
+                  "lng" : 106.7685807
+               }
+            },
+            "location" : {
+               "lat" : 10.8906827,
+               "lng" : 106.7846345
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.9067126,
+                  "lng" : 106.8141138
+               },
+               "southwest" : {
+                  "lat" : 10.867214,
+                  "lng" : 106.7685807
+               }
+            }
+         },
+         "place_id" : "ChIJYflEfZbYdDERXRhKLd_se94",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Di An",
+               "short_name" : "Di An",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Binh Duong",
+               "short_name" : "Binh Duong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Di An, Binh Duong, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.9689156,
+                  "lng" : 106.840571
+               },
+               "southwest" : {
+                  "lat" : 10.8585318,
+                  "lng" : 106.7365821
+               }
+            },
+            "location" : {
+               "lat" : 10.8964757,
+               "lng" : 106.7527418
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.9689156,
+                  "lng" : 106.840571
+               },
+               "southwest" : {
+                  "lat" : 10.8585318,
+                  "lng" : 106.7365821
+               }
+            }
+         },
+         "place_id" : "ChIJDTqLuB7ZdDERTJCr_EHum8I",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ðông Hoà",
+               "short_name" : "Ðông Hoà",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Th? xã Di An",
+               "short_name" : "Tx. Di An",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Di An",
+               "short_name" : "Di An",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bình Duong",
+               "short_name" : "Bình Duong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ðông Hoà, Di An, Bình Duong, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.904981,
+                  "lng" : 106.8142269
+               },
+               "southwest" : {
+                  "lat" : 10.8670221,
+                  "lng" : 106.7687879
+               }
+            },
+            "location" : {
+               "lat" : 10.8877579,
+               "lng" : 106.7883416
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.904981,
+                  "lng" : 106.8142269
+               },
+               "southwest" : {
+                  "lat" : 10.8670221,
+                  "lng" : 106.7687879
+               }
+            }
+         },
+         "place_id" : "ChIJZ9vkXpbYdDERFfX2zK911cI",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Di An",
+               "short_name" : "Di An",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bình Duong",
+               "short_name" : "Bình Duong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Di An, Bình Duong, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.9690931,
+                  "lng" : 106.840371
+               },
+               "southwest" : {
+                  "lat" : 10.86301,
+                  "lng" : 106.734521
+               }
+            },
+            "location" : {
+               "lat" : 10.9044391,
+               "lng" : 106.7824429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.9690931,
+                  "lng" : 106.840371
+               },
+               "southwest" : {
+                  "lat" : 10.86301,
+                  "lng" : 106.734521
+               }
+            }
+         },
+         "place_id" : "ChIJGdgu7x3ZdDERTwk_YoBbkjI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Binh Duong",
+               "short_name" : "Binh Duong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Binh Duong, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 11.5013561,
+                  "lng" : 106.966831
+               },
+               "southwest" : {
+                  "lat" : 10.86301,
+                  "lng" : 106.335151
+               }
+            },
+            "location" : {
+               "lat" : 11.3254024,
+               "lng" : 106.477017
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 11.5013561,
+                  "lng" : 106.966831
+               },
+               "southwest" : {
+                  "lat" : 10.86301,
+                  "lng" : 106.335151
+               }
+            }
+         },
+         "place_id" : "ChIJeSj5jmq2dDERcxSNHInanzM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ho Chi Minh City Metropolitan Area",
+               "short_name" : "Ho Chi Minh City Metropolitan Area",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ho Chi Minh City Metropolitan Area, Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.2978089,
+                  "lng" : 107.5823451
+               },
+               "southwest" : {
+                  "lat" : 8.630172999999999,
+                  "lng" : 105.5037139
+               }
+            },
+            "location" : {
+               "lat" : 11.2136337,
+               "lng" : 106.912251
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.2978089,
+                  "lng" : 107.5823451
+               },
+               "southwest" : {
+                  "lat" : 8.630172999999999,
+                  "lng" : 105.5037139
+               }
+            }
+         },
+         "place_id" : "ChIJ1z7UIRkvdTER06xXZFy3wAI",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vietnam",
+               "short_name" : "VN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vietnam",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.393395,
+                  "lng" : 109.6765
+               },
+               "southwest" : {
+                  "lat" : 8.195200099999999,
+                  "lng" : 102.14441
+               }
+            },
+            "location" : {
+               "lat" : 14.058324,
+               "lng" : 108.277199
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.393395,
+                  "lng" : 109.6765
+               },
+               "southwest" : {
+                  "lat" : 8.195200099999999,
+                  "lng" : 102.14441
+               }
+            }
+         },
+         "place_id" : "ChIJXx5qc016FTERvmL-4smwO7A",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
