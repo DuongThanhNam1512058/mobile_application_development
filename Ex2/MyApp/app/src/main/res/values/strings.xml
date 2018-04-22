@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="user_name">User name</string>
+    <string name="password">PassWord</string>
+    <string name="login">Login</string>
+    <string name="tv_head">CÔNG CỤ CHUYỂN ĐỎI TIỀN TỆ</string>
+    <string name="bt_text">CHUYỂN ĐỔI</string>
+    <string name="lt">Lượng tiền:</string>
+    <string name="t">Từ:</string>
+    <string name="d">Sang:</string>
+    <string name="rt">KẾT QUẢ CHUYỂN ĐỔI TIỀN TỆ</string>
+    <string name="pre"><![CDATA[Chuyển đổi tiền tệ khác?>]]></string>
+    
+    <string-array name="planets_array">
+        <item>Đồng Việt Nam (VND)</item>
+        <item>Đô la Mỹ (USD)</item>
+        <item>Yên Nhật(JPY)</item>
+    </string-array>
+    
+</resources>

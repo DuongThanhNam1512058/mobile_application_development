@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    >
+    <LinearLayout
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/colorHead">
+        <ImageView
+            android:src="@mipmap/calculator"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp" />
+
+        <TextView
+            android:textStyle="bold"
+            android:textColor="@color/colorText"
+            android:layout_marginTop="10dp"
+            android:textSize="20px"
+            android:text="@string/tv_head"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <TextView
+        android:text="@string/lt"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/edt_cost"
+        android:hint="1"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+    android:text="@string/t"
+    android:textStyle="bold"
+    android:layout_marginTop="10dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+    <Spinner
+        android:id="@+id/spn_fromcountry"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+
+    </Spinner>
+
+    <TextView
+        android:text="@string/d"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Spinner
+        android:id="@+id/spn_tocountry"
+        android:layout_width="match_parent"
+
+        android:layout_height="40dp"></Spinner>
+
+    <Button
+        android:id="@+id/btn_convert"
+        android:text="@string/bt_text"
+        android:textColor="@color/colorText"
+        android:background="@color/colorButton"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
